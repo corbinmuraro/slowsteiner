@@ -1,0 +1,13 @@
+body {
+  font-family: "Source Serif 4", sans-serif;
+}
+
+.layout {
+    margin: 40px auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
