@@ -5,7 +5,8 @@ body {
   color: #412c04;
   height: 100%;
   margin: 0;
-  font-size: 18px;
+  font-size: 19px;
+  line-height: 26px;
 }
 
 .layout {
@@ -42,7 +43,7 @@ ul li {
 }
 
 .content-section {
-  margin-top: 48px;
+  margin-top: 96px;
 }
 
 .image-grid {
