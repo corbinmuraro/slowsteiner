@@ -26,6 +26,30 @@ h1 {
   line-height: 120%;
 }
 
+.logo-title {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.logo-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  flex: 1 0 100px;
+  max-width: 200px;
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+}
+
 a {
   color: #412c04;
 }
