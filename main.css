@@ -58,8 +58,9 @@ a {
   margin: 40px 0 56px;
 }
 
-p.title {
+.title {
   font-weight: 500;
+  margin-bottom: 20px;
 }
 
 ul li {
@@ -90,13 +91,24 @@ ul li {
   border-radius: 5px;
 }
 
+.quote-container {
+  display: flex;
+  gap: 20px;
+}
+
+.quote-image {
+  width: 144px;
+  height: 144px;
+  border-radius: 4px;
+}
+
 .quote {
   margin-bottom: 4px;
 }
 
 .quote-author {
   color: #6c6555;
-  margin-bottom: 16px;
+  margin: 8px 0 28px;
 }
 
 .button {
